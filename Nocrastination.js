@@ -1,6 +1,14 @@
 //placeholder
 
-var character = 
+"header": {
+	"title":  {
+		"type": "image",
+		"url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fforums.mobirise.com%2Fdiscussion%2F17340%2Fmobile-app-header-block-free-download&psig=AOvVaw2p36iX2metGjHprpDNOGXH&ust=1668925986142000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCPCd8YbQufsCFQAAAAAdAAAAABAJ"
+	}
+}
+
+
+/*var character =
 document.getElementById("character");
 var block = document.getElementById("block");
 var counter = 0;
@@ -25,4 +33,4 @@ var checkDead = setInterval(function() {
         counter++;
         document.getElementById("scoreSpan").innerHTML = Math.floor(counter/100);
     }
-}, 10);
+}, 10);*/
