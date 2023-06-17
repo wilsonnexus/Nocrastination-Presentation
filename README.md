@@ -1,3 +1,3 @@
 # [wilsonneira5.github.io](https://wilsonnexus.github.io/Nocrastination/)
 Nocrastination
-Hard-Coded Presentation Project for COMPSCI325
+Hard-coded project intended only for presentation of a potential for COMPSCI325
